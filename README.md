@@ -5,10 +5,10 @@
 Highlighting the intersection of predictive analytics and health insurance for improved claim accuracy and introducing ML-based innovation for detecting critical drug labels, streamlining claim processing, and resource allocation.
 
 ### EndToEnd Pyspark MLlib Solution
-https://github.com/SiddharthUchil/Claims-Prediction/assets/36127139/40705ead-9498-41db-ac9b-7964760f041f
+https://github.com/SiddharthUchil/Pharmaceutical-Claims-Prediction/assets/36127139/adb4fcf6-2c3f-4fe5-8f5a-5b6c9a34f1b4
 
-
-https://github.com/SiddharthUchil/Claims-Prediction/assets/36127139/269a4049-3015-4646-b6ce-669f501a2f6d
+### Query the Bot
+https://github.com/SiddharthUchil/Pharmaceutical-Claims-Prediction/assets/36127139/38a39421-42a6-4776-90f0-d7245762d18e
 
 ## Project Objectives & Data Insights
 
@@ -37,5 +37,4 @@ Business Metrics: Hamming Loss at an optimal level indicating high model reliabi
 Seamless Integration: Designed an actionable deployment strategy ensuring model embedding into existing claim processing workflows.
 
 Future Horizons: Laying the groundwork for predictive model evolution incorporating real-time analytics and AI-driven member health alerts.
-"# Pharmaceutical-Claims-Prediction" 
-"# Pharmaceutical-Claims-Prediction" 
+
