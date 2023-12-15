@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1702661776418,"sparkVersion":"3.5.0","uid":"StringIndexer_ed47331400f3","paramMap":{"inputCol":"im_DINLevel1ClassCode","outputCol":"si_DINLevel1ClassCode"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_ed47331400f3__output","stringOrderType":"frequencyDesc"}}

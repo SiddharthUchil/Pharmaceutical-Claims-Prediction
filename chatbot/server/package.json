@@ -1,0 +1,33 @@
+{
+  "name": "codex-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "type": "module",
+  "target": "ES2020",
+  "module": "nodenext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-Crashkurse/LangChain-JS-Full-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coding-Crashkurse/LangChain-JS-Full-Course/issues"
+  },
+  "homepage": "https://github.com/Coding-Crashkurse/LangChain-JS-Full-Course#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "faiss-node": "^0.5.1",
+    "langchain": "^0.0.201",
+    "nodemon": "^3.0.2",
+    "openai": "^4.20.1"
+  },
+  "private": true
+}
