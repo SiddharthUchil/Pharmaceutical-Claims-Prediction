@@ -8,7 +8,7 @@ Highlighting the intersection of predictive analytics and health insurance for i
 https://github.com/SiddharthUchil/Pharmaceutical-Claims-Prediction/assets/36127139/adb4fcf6-2c3f-4fe5-8f5a-5b6c9a34f1b4
 
 ### Query the Bot
-https://github.com/SiddharthUchil/Pharmaceutical-Claims-Prediction/assets/36127139/38a39421-42a6-4776-90f0-d7245762d18e
+https://github.com/SiddharthUchil/Pharmaceutical-Claims-Prediction/assets/36127139/985de6a7-96db-458f-b36f-46f4d65b1792
 
 ## Project Objectives & Data Insights
 
